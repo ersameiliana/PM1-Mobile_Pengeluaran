@@ -1,0 +1,581 @@
+[
+  {
+    "name": "Home",
+    "type": "FRAME",
+    "path": "Home",
+    "width": 412,
+    "height": 917,
+    "bgColor": "rgba(219, 245, 252, 1)"
+  },
+  {
+    "name": "Ellipse 5",
+    "type": "ELLIPSE",
+    "path": "Home > Ellipse 5",
+    "width": 42,
+    "height": 42,
+    "bgColor": "rgba(217, 217, 217, 1)",
+    "borderColor": "rgba(0, 0, 0, 1)",
+    "borderWeight": 1
+  },
+  {
+    "name": "Beranda",
+    "type": "TEXT",
+    "path": "Home > Group 76 > Beranda",
+    "width": 54,
+    "height": 16,
+    "bgColor": "rgba(0, 0, 0, 1)",
+    "text": "Beranda",
+    "fontSize": 13,
+    "fontWeight": 700,
+    "color": "rgba(0, 0, 0, 1)"
+  },
+  {
+    "name": "Buat Catatan",
+    "type": "TEXT",
+    "path": "Home > Group 76 > Group 43 > Buat Catatan",
+    "width": 83,
+    "height": 16,
+    "bgColor": "rgba(0, 0, 0, 1)",
+    "text": "Buat Catatan",
+    "fontSize": 13,
+    "fontWeight": 700,
+    "color": "rgba(0, 0, 0, 1)"
+  },
+  {
+    "name": "Riwayat Catatan",
+    "type": "TEXT",
+    "path": "Home > Group 76 > Group 44 > Riwayat Catatan",
+    "width": 80,
+    "height": 13,
+    "bgColor": "rgba(0, 0, 0, 1)",
+    "text": "Riwayat Catatan",
+    "fontSize": 10,
+    "fontWeight": 700,
+    "color": "rgba(0, 0, 0, 1)"
+  },
+  {
+    "name": "Group 16",
+    "type": "GROUP",
+    "path": "Home > Group 41 > Group 16",
+    "width": 149,
+    "height": 47,
+    "borderRadius": 25
+  },
+  {
+    "name": "Rectangle 21",
+    "type": "RECTANGLE",
+    "path": "Home > Group 41 > Group 16 > Rectangle 21",
+    "width": 149,
+    "height": 47,
+    "borderRadius": 25,
+    "bgColor": "rgba(152, 204, 255, 1)"
+  },
+  {
+    "name": "Muat Ulang",
+    "type": "TEXT",
+    "path": "Home > Group 41 > Muat Ulang",
+    "width": 98,
+    "height": 49.20100402832031,
+    "bgColor": "rgba(0, 0, 0, 1)",
+    "text": "Muat Ulang",
+    "fontSize": 14,
+    "fontWeight": 800,
+    "color": "rgba(0, 0, 0, 1)"
+  },
+  {
+    "name": "Rectangle 20",
+    "type": "RECTANGLE",
+    "path": "Home > Rectangle 20",
+    "width": 52,
+    "height": 37,
+    "borderRadius": 20,
+    "bgColor": "rgba(152, 204, 255, 1)"
+  },
+  {
+    "name": "Rectangle 18",
+    "type": "RECTANGLE",
+    "path": "Home > Group 56 > Rectangle 18",
+    "width": 261,
+    "height": 37,
+    "borderRadius": 20,
+    "bgColor": "rgba(255, 255, 255, 1)"
+  },
+  {
+    "name": "Cari catatan...",
+    "type": "TEXT",
+    "path": "Home > Group 56 > Cari catatan...",
+    "width": 185,
+    "height": 16,
+    "bgColor": "rgba(0, 0, 0, 1)",
+    "text": "Cari catatan...",
+    "fontSize": 12,
+    "fontWeight": 200,
+    "color": "rgba(0, 0, 0, 1)"
+  },
+  {
+    "name": "Rectangle 19",
+    "type": "RECTANGLE",
+    "path": "Home > Group 57 > Rectangle 19",
+    "width": 52,
+    "height": 37,
+    "borderRadius": 20,
+    "bgColor": "rgba(255, 255, 255, 1)"
+  },
+  {
+    "name": "Rectangle 6",
+    "type": "RECTANGLE",
+    "path": "Home > Group 58 > Rectangle 6",
+    "width": 389,
+    "height": 133,
+    "borderRadius": 20,
+    "bgColor": "rgba(255, 255, 255, 1)"
+  },
+  {
+    "name": "Rectangle 29",
+    "type": "RECTANGLE",
+    "path": "Home > Group 58 > Rectangle 29",
+    "width": 375,
+    "height": 112,
+    "borderRadius": 20,
+    "bgColor": "rgba(173, 217, 254, 1)"
+  },
+  {
+    "name": "Rectangle 30",
+    "type": "RECTANGLE",
+    "path": "Home > Group 58 > Rectangle 30",
+    "width": 302,
+    "height": 37,
+    "borderRadius": 20,
+    "bgColor": "rgba(173, 217, 254, 1)"
+  },
+  {
+    "name": "Rectangle 31",
+    "type": "RECTANGLE",
+    "path": "Home > Group 58 > Rectangle 31",
+    "width": 108,
+    "height": 38,
+    "borderRadius": 20,
+    "bgColor": "rgba(173, 217, 254, 1)"
+  },
+  {
+    "name": "Rectangle 32",
+    "type": "RECTANGLE",
+    "path": "Home > Group 58 > Rectangle 32",
+    "width": 108,
+    "height": 38,
+    "borderRadius": 20,
+    "bgColor": "rgba(173, 217, 254, 1)"
+  },
+  {
+    "name": "Catatan Hari Ini",
+    "type": "TEXT",
+    "path": "Home > Group 58 > Catatan Hari Ini",
+    "width": 245,
+    "height": 16,
+    "bgColor": "rgba(0, 0, 0, 1)",
+    "text": "Catatan Hari Ini",
+    "fontSize": 13,
+    "fontWeight": 700,
+    "color": "rgba(0, 0, 0, 1)"
+  },
+  {
+    "name": "1",
+    "type": "TEXT",
+    "path": "Home > Group 58 > 1",
+    "width": 9,
+    "height": 16,
+    "bgColor": "rgba(0, 0, 0, 1)",
+    "text": "1",
+    "fontSize": 13,
+    "fontWeight": 700,
+    "color": "rgba(0, 0, 0, 1)"
+  },
+  {
+    "name": "Rp 20000",
+    "type": "TEXT",
+    "path": "Home > Group 58 > Rp 20000",
+    "width": 65,
+    "height": 16,
+    "bgColor": "rgba(0, 0, 0, 1)",
+    "text": "Rp 20000",
+    "fontSize": 13,
+    "fontWeight": 700,
+    "color": "rgba(0, 0, 0, 1)"
+  },
+  {
+    "name": "Catatan",
+    "type": "TEXT",
+    "path": "Home > Group 58 > Catatan",
+    "width": 53,
+    "height": 16,
+    "bgColor": "rgba(0, 0, 0, 1)",
+    "text": "Catatan",
+    "fontSize": 10,
+    "fontWeight": 300,
+    "color": "rgba(0, 0, 0, 1)"
+  },
+  {
+    "name": "Total Nominal",
+    "type": "TEXT",
+    "path": "Home > Group 58 > Total Nominal",
+    "width": 85,
+    "height": 16,
+    "bgColor": "rgba(0, 0, 0, 1)",
+    "text": "Total Nominal",
+    "fontSize": 10,
+    "fontWeight": 300,
+    "color": "rgba(0, 0, 0, 1)"
+  },
+  {
+    "name": "Rectangle 28",
+    "type": "RECTANGLE",
+    "path": "Home > Group 58 > Rectangle 28",
+    "width": 49,
+    "height": 42,
+    "borderRadius": 20,
+    "bgColor": "rgba(200, 230, 255, 1)"
+  },
+  {
+    "name": "calendar",
+    "type": "FRAME",
+    "path": "Home > Group 58 > calendar",
+    "width": 24,
+    "height": 24,
+    "bgColor": "rgba(255, 255, 255, 1)"
+  },
+  {
+    "name": "Rectangle 33",
+    "type": "RECTANGLE",
+    "path": "Home > Group 59 > Rectangle 33",
+    "width": 79,
+    "height": 30,
+    "borderRadius": 20,
+    "bgColor": "rgba(255, 246, 246, 1)"
+  },
+  {
+    "name": "Kategori",
+    "type": "TEXT",
+    "path": "Home > Group 59 > Kategori",
+    "width": 72,
+    "height": 16,
+    "bgColor": "rgba(0, 0, 0, 1)",
+    "text": "Kategori",
+    "fontSize": 16,
+    "fontWeight": 700,
+    "color": "rgba(0, 0, 0, 1)"
+  },
+  {
+    "name": "Lihat semua",
+    "type": "TEXT",
+    "path": "Home > Group 59 > Lihat semua",
+    "width": 66,
+    "height": 16,
+    "bgColor": "rgba(0, 0, 0, 1)",
+    "text": "Lihat semua",
+    "fontSize": 10,
+    "fontWeight": 400,
+    "color": "rgba(0, 0, 0, 1)"
+  },
+  {
+    "name": "Ellipse 2",
+    "type": "ELLIPSE",
+    "path": "Home > Group 59 > Group 35 > Ellipse 2",
+    "width": 57,
+    "height": 54,
+    "bgColor": "rgba(200, 230, 255, 1)"
+  },
+  {
+    "name": "Ellipse 2",
+    "type": "ELLIPSE",
+    "path": "Home > Group 59 > Group 35 > Group 31 > Ellipse 2",
+    "width": 48.971832275390625,
+    "height": 43.043479919433594,
+    "bgColor": "rgba(220, 239, 255, 1)"
+  },
+  {
+    "name": "Makanan",
+    "type": "TEXT",
+    "path": "Home > Group 59 > Makanan",
+    "width": 53,
+    "height": 15,
+    "bgColor": "rgba(0, 0, 0, 1)",
+    "text": "Makanan",
+    "fontSize": 12,
+    "fontWeight": 700,
+    "color": "rgba(0, 0, 0, 1)"
+  },
+  {
+    "name": "Makanan",
+    "type": "TEXT",
+    "path": "Home > Group 59 > Makanan",
+    "width": 53,
+    "height": 15,
+    "bgColor": "rgba(0, 0, 0, 1)",
+    "text": "Makanan",
+    "fontSize": 12,
+    "fontWeight": 700,
+    "color": "rgba(0, 0, 0, 1)"
+  },
+  {
+    "name": "Rectangle 34",
+    "type": "RECTANGLE",
+    "path": "Home > Group 59 > Rectangle 34",
+    "width": 79,
+    "height": 30,
+    "borderRadius": 20,
+    "bgColor": "rgba(255, 246, 246, 1)"
+  },
+  {
+    "name": "Ellipse 2",
+    "type": "ELLIPSE",
+    "path": "Home > Group 59 > Group 36 > Ellipse 2",
+    "width": 57,
+    "height": 54,
+    "bgColor": "rgba(200, 230, 255, 1)"
+  },
+  {
+    "name": "Ellipse 2",
+    "type": "ELLIPSE",
+    "path": "Home > Group 59 > Group 36 > Group 31 > Ellipse 2",
+    "width": 48.971832275390625,
+    "height": 43.043479919433594,
+    "bgColor": "rgba(220, 239, 255, 1)"
+  },
+  {
+    "name": "Transportasi",
+    "type": "TEXT",
+    "path": "Home > Group 59 > Transportasi",
+    "width": 73,
+    "height": 15,
+    "bgColor": "rgba(0, 0, 0, 1)",
+    "text": "Transportasi",
+    "fontSize": 12,
+    "fontWeight": 700,
+    "color": "rgba(0, 0, 0, 1)"
+  },
+  {
+    "name": "Rectangle 35",
+    "type": "RECTANGLE",
+    "path": "Home > Group 59 > Rectangle 35",
+    "width": 79,
+    "height": 30,
+    "borderRadius": 20,
+    "bgColor": "rgba(255, 246, 246, 1)"
+  },
+  {
+    "name": "Ellipse 2",
+    "type": "ELLIPSE",
+    "path": "Home > Group 59 > Group 37 > Ellipse 2",
+    "width": 57,
+    "height": 54,
+    "bgColor": "rgba(200, 230, 255, 1)"
+  },
+  {
+    "name": "Ellipse 2",
+    "type": "ELLIPSE",
+    "path": "Home > Group 59 > Group 37 > Group 31 > Ellipse 2",
+    "width": 48.971832275390625,
+    "height": 43.043479919433594,
+    "bgColor": "rgba(220, 239, 255, 1)"
+  },
+  {
+    "name": "Pendidikan",
+    "type": "TEXT",
+    "path": "Home > Group 59 > Pendidikan",
+    "width": 66,
+    "height": 15,
+    "bgColor": "rgba(0, 0, 0, 1)",
+    "text": "Pendidikan",
+    "fontSize": 12,
+    "fontWeight": 700,
+    "color": "rgba(0, 0, 0, 1)"
+  },
+  {
+    "name": "Rectangle 36",
+    "type": "RECTANGLE",
+    "path": "Home > Group 59 > Rectangle 36",
+    "width": 79,
+    "height": 30,
+    "borderRadius": 20,
+    "bgColor": "rgba(255, 246, 246, 1)"
+  },
+  {
+    "name": "Ellipse 2",
+    "type": "ELLIPSE",
+    "path": "Home > Group 59 > Group 38 > Ellipse 2",
+    "width": 57,
+    "height": 54,
+    "bgColor": "rgba(200, 230, 255, 1)"
+  },
+  {
+    "name": "Ellipse 2",
+    "type": "ELLIPSE",
+    "path": "Home > Group 59 > Group 38 > Group 31 > Ellipse 2",
+    "width": 48.971832275390625,
+    "height": 43.043479919433594,
+    "bgColor": "rgba(220, 239, 255, 1)"
+  },
+  {
+    "name": "Lainnya",
+    "type": "TEXT",
+    "path": "Home > Group 59 > Lainnya",
+    "width": 45,
+    "height": 15,
+    "bgColor": "rgba(0, 0, 0, 1)",
+    "text": "Lainnya",
+    "fontSize": 12,
+    "fontWeight": 700,
+    "color": "rgba(0, 0, 0, 1)"
+  },
+  {
+    "name": "Catatan Terbaru",
+    "type": "TEXT",
+    "path": "Home > Group 60 > Catatan Terbaru",
+    "width": 216,
+    "height": 16,
+    "bgColor": "rgba(0, 0, 0, 1)",
+    "text": "Catatan Terbaru",
+    "fontSize": 16,
+    "fontWeight": 700,
+    "color": "rgba(0, 0, 0, 1)"
+  },
+  {
+    "name": "Lihat semua",
+    "type": "TEXT",
+    "path": "Home > Group 60 > Group 42 > Lihat semua",
+    "width": 66,
+    "height": 16,
+    "bgColor": "rgba(0, 0, 0, 1)",
+    "text": "Lihat semua",
+    "fontSize": 10,
+    "fontWeight": 400,
+    "color": "rgba(0, 0, 0, 1)"
+  },
+  {
+    "name": "Rectangle 23",
+    "type": "RECTANGLE",
+    "path": "Home > Group 60 > Group 40 > Rectangle 23",
+    "width": 374,
+    "height": 143,
+    "borderRadius": 20,
+    "bgColor": "rgba(255, 255, 255, 1)"
+  },
+  {
+    "name": "Group 22",
+    "type": "GROUP",
+    "path": "Home > Group 60 > Group 40 > Group 22",
+    "width": 87,
+    "height": 20,
+    "borderRadius": 20
+  },
+  {
+    "name": "Rectangle 33",
+    "type": "RECTANGLE",
+    "path": "Home > Group 60 > Group 40 > Group 22 > Rectangle 33",
+    "width": 87,
+    "height": 20,
+    "borderRadius": 20,
+    "bgColor": "rgba(152, 204, 255, 1)"
+  },
+  {
+    "name": "Makanan",
+    "type": "TEXT",
+    "path": "Home > Group 60 > Group 40 > Group 22 > Makanan",
+    "width": 53,
+    "height": 15,
+    "bgColor": "rgba(0, 0, 0, 1)",
+    "text": "Makanan",
+    "fontSize": 12,
+    "fontWeight": 700,
+    "color": "rgba(0, 0, 0, 1)"
+  },
+  {
+    "name": "Makan Siang",
+    "type": "TEXT",
+    "path": "Home > Group 60 > Group 40 > Makan Siang",
+    "width": 123,
+    "height": 25,
+    "bgColor": "rgba(0, 0, 0, 1)",
+    "text": "Makan Siang",
+    "fontSize": 20,
+    "fontWeight": 700,
+    "color": "rgba(0, 0, 0, 1)"
+  },
+  {
+    "name": "2 Mar 2026",
+    "type": "TEXT",
+    "path": "Home > Group 60 > Group 40 > 2 Mar 2026",
+    "width": 69,
+    "height": 16,
+    "bgColor": "rgba(0, 0, 0, 1)",
+    "text": "2 Mar 2026",
+    "fontSize": 13,
+    "fontWeight": 500,
+    "color": "rgba(0, 0, 0, 1)"
+  },
+  {
+    "name": "Baru saja ditambahkan",
+    "type": "TEXT",
+    "path": "Home > Group 60 > Group 40 > Baru saja ditambahkan",
+    "width": 107,
+    "height": 13,
+    "bgColor": "rgba(0, 0, 0, 1)",
+    "text": "Baru saja ditambahkan",
+    "fontSize": 10,
+    "fontWeight": 200,
+    "color": "rgba(0, 0, 0, 1)"
+  },
+  {
+    "name": "Rp 20000",
+    "type": "TEXT",
+    "path": "Home > Group 60 > Group 40 > Rp 20000",
+    "width": 75,
+    "height": 19,
+    "bgColor": "rgba(0, 0, 0, 1)",
+    "text": "Rp 20000",
+    "fontSize": 15,
+    "fontWeight": 500,
+    "color": "rgba(0, 0, 0, 1)"
+  },
+  {
+    "name": "Ellipse 2",
+    "type": "ELLIPSE",
+    "path": "Home > Group 60 > Group 40 > Group 28 > Ellipse 2",
+    "width": 61,
+    "height": 55,
+    "bgColor": "rgba(219, 245, 252, 1)"
+  },
+  {
+    "name": "Hai, {user}!",
+    "type": "TEXT",
+    "path": "Home > Hai, {user}!",
+    "width": 138,
+    "height": 28,
+    "bgColor": "rgba(0, 0, 0, 1)",
+    "text": "Hai, {user}!",
+    "fontSize": 14,
+    "fontWeight": 700,
+    "color": "rgba(0, 0, 0, 1)"
+  },
+  {
+    "name": "Ini adalah dashboard utamamu",
+    "type": "TEXT",
+    "path": "Home > Ini adalah dashboard utamamu",
+    "width": 232,
+    "height": 28,
+    "bgColor": "rgba(0, 0, 0, 1)",
+    "text": "Ini adalah dashboard utamamu",
+    "fontSize": 11,
+    "fontWeight": 300,
+    "color": "rgba(0, 0, 0, 1)"
+  },
+  {
+    "name": "Ellipse 6",
+    "type": "ELLIPSE",
+    "path": "Home > Ellipse 6",
+    "width": 38,
+    "height": 38,
+    "borderColor": "rgba(0, 0, 0, 1)",
+    "borderWeight": 1
+  }
+]
